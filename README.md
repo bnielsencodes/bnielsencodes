@@ -9,7 +9,7 @@ My main focus is currently React, but I am constantly experimenting with and lea
 * 🌍  I'm based in Oregon
 * 🖥️  See my portfolio at [bnielsen.dev](http://bnielsen.dev)
 * ✉️  You can contact me at [bnielsencodes@gmail.com](mailto:bnielsencodes@gmail.com)
-* 🚀  I'm currently working on [Kanban - task manager app](http://bnielsen.dev/kanban)
+* 🚀  I'm currently working on a variety of things including frontendmentor.io challenges, personal projects, and various online courses.
 * 🧠  I'm learning Next.js, Styled Components, TypeScript, Redux, and Vite
 * 🤝  I'm open to collaborating on interesting projects
 
