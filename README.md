@@ -10,7 +10,7 @@ My main focus is currently React/Next.js, but I am always experimenting with and
 * 🖥️  See my portfolio at [bnielsen.dev](http://bnielsen.dev)
 * ✉️  You can contact me at [brandon@bnielsen.dev](mailto:brandon@bnielsen.dev)
 * 🚀  I'm currently working on a variety of things including frontendmentor.io challenges, personal projects, and various online courses
-* 🧠  I'm learning Next.js App Router, TypeScript, Node.js, SQL, PostgreSQL, Supabase and more
+* 🧠  I'm learning Next.js App Router, TypeScript, Node.js, SQL, PostgreSQL, Supabase, React Native and more
 * 🤝  I'm open to collaborating on interesting projects
 
 
