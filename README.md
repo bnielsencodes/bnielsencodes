@@ -6,7 +6,7 @@ Web Developer
 
 My main focus is currently React/Next.js, but I am always experimenting with and learning new technologies and tools.
 
-* 🌍  I'm based in Oregon
+* 🌍  I'm based in Oregon, US
 * 🖥️  See my portfolio at [bnielsen.dev](http://bnielsen.dev)
 * ✉️  You can contact me at [brandon@bnielsen.dev](mailto:brandon@bnielsen.dev)
 * 🚀  I'm currently working on a variety of things including frontendmentor.io challenges, personal projects, and various online courses
